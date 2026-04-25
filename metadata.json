@@ -1,0 +1,6 @@
+{
+  "name": "AstroSandbox 2D",
+  "description": "A 2D physics sandbox game where you build rockets, launch into space, land on planets, build stations, and manage resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
